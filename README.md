@@ -1,4 +1,4 @@
-# Laravel CRUD Operation
+# Laravel CRUD Operation (Photographer)
 ---
 Complex CRUD operation using Laravel
 ---
